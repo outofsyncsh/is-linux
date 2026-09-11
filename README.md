@@ -9,4 +9,8 @@ yes
 
 ## How it works
 
-If this program is running, you're probably running Linux.
+If it runs, you're probably running Linux.
+
+## Why?
+
+Good question.
