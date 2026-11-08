@@ -16,7 +16,7 @@ msg_len equ     $ - msg
         global  _start
 
 _start:
-        ; write(1, msg, len)
+        ; write (1, msg, len)
         mov     eax, 1                  ; SYS_write
         mov     edi, 1                  ; fd: stdout
         lea     rsi, [msg]
